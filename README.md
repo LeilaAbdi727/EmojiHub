@@ -1,3 +1,4 @@
+#EmojiHub
 🌟 EmojiHub v1.0 — Initial Release
 🧩 About the App
 EmojiHub is a simple Android app for browsing, searching, and filtering emojis.
